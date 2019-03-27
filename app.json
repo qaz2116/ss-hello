@@ -3,7 +3,7 @@
   "description": "ss-hello",
   "env": {
     "METHOD": {
-      "description": "加密算法",
+      "description": "algorthm",
       "value": "aes-256-cfb"
     },
     "KEY": {
