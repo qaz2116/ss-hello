@@ -1,9 +1,10 @@
 {
   "name": "ss-hello",
   "description": "ss-hello",
+  "repository": "https://github.com/qaz2116/ss-hello",
   "env": {
     "METHOD": {
-      "description": "algorthm",
+      "description": "加密算法",
       "value": "aes-256-cfb"
     },
     "KEY": {
@@ -11,4 +12,3 @@
       "value": ""
     }
   }
-}
